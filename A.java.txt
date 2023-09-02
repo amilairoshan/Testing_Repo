@@ -10,5 +10,8 @@ test8
 test9
 test10
 test11
+<<<<<<< HEAD
 test12
 test13
+=======
+>>>>>>> 780f763533a00f8f636384931f772676cab923d7
